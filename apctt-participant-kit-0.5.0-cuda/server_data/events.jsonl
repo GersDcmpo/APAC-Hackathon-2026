@@ -1,0 +1,5 @@
+{"ts": "2026-11-05T12:34:15.030Z", "event": "server_start", "profile": "dev", "config_sha256": "05ee8f0075bf52faf4600414ee6e9e285454f380d337ff14ae15b9b0418d328c", "package_status": "verified", "compute": "NOT_REQUIRED", "ready_reason": null}
+{"ts": "2026-11-05T12:34:39.125Z", "event": "admitted", "assessment_id": "9ec4aee1cbb34672bd5ac26b7d330279", "trace_id": "4079108f77af49888c1f11be2ac43815"}
+{"ts": "2026-11-05T12:34:39.307Z", "event": "run_started", "assessment_id": "9ec4aee1cbb34672bd5ac26b7d330279", "run_id": "8e7b2f9e4371434e929bf98aaf5db8e7"}
+{"ts": "2026-11-05T12:34:40.791Z", "event": "run_finished", "assessment_id": "9ec4aee1cbb34672bd5ac26b7d330279", "run_id": "8e7b2f9e4371434e929bf98aaf5db8e7", "origin": "module", "error_code": null, "total_ms": 1460.477, "cleanup_confirmed": true}
+{"ts": "2026-11-05T12:38:22.364Z", "event": "server_stop"}
