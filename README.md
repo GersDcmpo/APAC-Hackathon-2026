@@ -1,6 +1,6 @@
 # APCTT Assessment Server — Participant Kit
 
-# Before to create module, check the README.md in apctt-participant-kit-0.5.0-cuda and do the Step 1 up to Step 5
+# Before to create module, check this README.md first and then do the Step 1 up to Step 5
 
 kit 0.5.0 | API `apctt-api-v0.2-draft` | worker protocol `apctt-worker-v2` | variant: cuda
 
